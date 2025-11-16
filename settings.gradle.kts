@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CrikStats"
 include(":app")
+include(":feature-player")
